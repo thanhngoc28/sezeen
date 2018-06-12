@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project>
+   <description></description>
+   <name>Sezeen MoMo Auction</name>
+   <tag></tag>
+   <UUID>f0d8874a-52a1-48a7-9ec7-bb1eb6a41056</UUID>
+   <migratedVersion>5.4.0</migratedVersion>
+   <pageLoadTimeout>0</pageLoadTimeout>
+</Project>

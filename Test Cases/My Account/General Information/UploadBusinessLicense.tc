@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>UploadBusinessLicense</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>17822011-550b-44a9-998d-df4dea41493f</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b552dd9d-691a-4447-8fab-19a449e96557</id>
+      <masked>false</masked>
+      <name>FilePath</name>
+   </variable>
+</TestCaseEntity>

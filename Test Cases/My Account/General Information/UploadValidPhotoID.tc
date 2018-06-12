@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>UploadValidPhotoID</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6a7245f5-4e3f-4811-86dd-88da9276e32c</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>562f8536-ee72-42c8-b167-368c139b5f67</id>
+      <masked>false</masked>
+      <name>FilePath</name>
+   </variable>
+</TestCaseEntity>

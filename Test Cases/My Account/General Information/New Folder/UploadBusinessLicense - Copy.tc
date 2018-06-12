@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>UploadBusinessLicense - Copy</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9ff58cc9-2002-434f-b016-745605b47c59</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0c1e3534-e468-46b6-bf10-bc8ecebaec53</id>
+      <masked>false</masked>
+      <name>LocalPath</name>
+   </variable>
+</TestCaseEntity>

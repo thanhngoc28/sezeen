@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>VerifyFilesAfterUpload</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>06d80c0b-efa2-4df4-92c2-d9dee93dce72</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>1b6f5ae3-6d26-4d25-a3f1-30f61821ad15</id>
+      <masked>false</masked>
+      <name>ValidPhotoIDFilePath</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f60e267a-3262-4dfd-9e81-508e02635835</id>
+      <masked>false</masked>
+      <name>BusinessLicenseFilePath</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f4301930-5faf-421c-bd67-03b93ee66d8b</id>
+      <masked>false</masked>
+      <name>ProfilePhotoFilePath</name>
+   </variable>
+</TestCaseEntity>

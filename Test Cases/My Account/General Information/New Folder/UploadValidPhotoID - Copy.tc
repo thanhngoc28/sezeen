@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>UploadValidPhotoID - Copy</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bfaea4b0-c4f1-47bb-8d58-a535d82b04cc</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>32363013-0f08-4063-8536-fcd9aa48f223</id>
+      <masked>false</masked>
+      <name>LocalPath</name>
+   </variable>
+</TestCaseEntity>

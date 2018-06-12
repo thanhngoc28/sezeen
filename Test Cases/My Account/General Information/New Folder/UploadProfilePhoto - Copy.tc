@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>UploadProfilePhoto - Copy</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a7d926f5-a33e-4544-af11-9093b5f20c6a</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ffb49374-3bac-4df9-8936-2e04dbb512b4</id>
+      <masked>false</masked>
+      <name>LocalPath</name>
+   </variable>
+</TestCaseEntity>
